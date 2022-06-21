@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040509852074",
+    "project_id": "pristine-bay-341918",
+    "storage_bucket": "pristine-bay-341918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040509852074:android:e7c8dbad928b31152ab3d3",
+        "android_client_info": {
+          "package_name": "in.codersclub.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040509852074-1rjqimmi2ukjibve73dgp8ltcvpqd0l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.codersclub.location",
+            "certificate_hash": "45d548d853f56e3985cd4bba20583ddd222dc69e"
+          }
+        },
+        {
+          "client_id": "1040509852074-o5ofimh8j4gv0792o24qng4sp2l1q47r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_Louz-vlA7BzD9bx2ZOLYf2jLqwoUpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040509852074-o5ofimh8j4gv0792o24qng4sp2l1q47r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
